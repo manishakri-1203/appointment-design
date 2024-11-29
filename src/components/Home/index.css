@@ -1,0 +1,32 @@
+.filters-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #EDEDED;
+}
+
+.filtered-text-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 42px;
+}
+
+.filtered-text{
+    background-color: #EAF2EA;
+    margin-right: 12px;
+    padding: 12px 24px;
+    border-radius: 25px;
+}
+
+.cross-icon{
+    align-self: center;
+}
+
+.doctor-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+    margin-bottom: 20px;
+}
